@@ -6,6 +6,7 @@ This is my first project that i have started that includes electronics such as p
 <img width="672" height="443" alt="image" src="https://github.com/user-attachments/assets/af4dd003-ba0b-492d-b66b-915a9b2d0ba6" />
 
 This Hackpad features:
+
 6 Keys
 OLED 0.91" Diplay
 Rotary Encoder
