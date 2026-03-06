@@ -2,8 +2,9 @@
 A overview of everything about my HackPad  
 This is my first project that i have started that includes electronics such as pbc's
 <img width="669" height="401" alt="image" src="https://github.com/user-attachments/assets/b33ec60e-f56b-42d0-b285-78b051d24e8b" />
-<img width="851" height="496" alt="image" src="https://github.com/user-attachments/assets/3932ce10-4036-435c-979c-3f2b0c9afacc" />
-<img width="1107" height="724" alt="image" src="https://github.com/user-attachments/assets/effa7274-0e3c-45fe-b9bb-ef3182964061" />
+<img width="804" height="433" alt="image" src="https://github.com/user-attachments/assets/62166cc0-605a-43eb-b42d-aab3b9904a7f" />
+<img width="695" height="453" alt="image" src="https://github.com/user-attachments/assets/35479875-c55f-42a3-8f98-2696c9be2e45" />
+
 
 
 
